@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import { createRoot } from "react-dom/client";
 import FaqsPage from "./faqs/page";
 import FoodDrinkPage from "./food-drink/page";
@@ -9,6 +10,22 @@ import "./globals.css";
 
 function NetlifyApp() {
   const path = window.location.pathname.replace(/\/$/, "") || "/";
+
+  useEffect(() => {
+    if (!window.location.hash) {
+      return;
+    }
+
+    const scrollToHashTarget = () => {
+      const target = document.getElementById(window.location.hash.slice(1));
+
+      if (target) {
+        target.scrollIntoView({ block: "start" });
+      }
+    };
+
+    window.setTimeout(scrollToHashTarget, 0);
+  }, [path]);
 
   if (path === "/things-to-do") {
     return <ThingsToDoPage />;
