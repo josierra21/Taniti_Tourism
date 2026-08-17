@@ -50,7 +50,7 @@ export const heroSlides: HeroSlide[] = [
       "Find local meals, American-style restaurants, Pan-Asian cuisine, grocery stores, and Taniti's microbrewery.",
     href: "/food-drink",
     image:
-      "https://images.squarespace-cdn.com/content/v1/5abbd1c975f9eea9ff88432e/1522819504155-QPV8O79S73NREG5R79K0/VertKitchen_LastTripAbroadNo1_3.JPG",
+      "https://revistapanorama.com/storage/2023/02/gastronomia-portobelo-1024x735.jpg",
   },
 ];
 
