@@ -12,7 +12,7 @@ export default function ThingsToDoPage() {
     <main>
       <Header />
 
-      <section className="section">
+      <section className="section muted">
         <SectionHeading
           eyebrow="EXPLORE TANITI"
           title="Things to Do"
