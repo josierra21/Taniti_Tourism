@@ -261,27 +261,27 @@ export const travelInfo = [
 
 export const faqs = [
   {
-    question: "How do most visitors get to Taniti?",
+    question: "Getting to Taniti",
     answer:
       "Almost all visitors arrive to Taniti by air, though some arrive on a small cruise ship that docks in Yellow Leaf Bay for one night per week. Taniti is served by a small airport that can accommodate small jets and propeller planes, and the airport is being expanded so larger jets can land on the island within the next few years.",
   },
   {
-    question: "How do visitors get around the island?",
+    question: "Getting around",
     answer:
       "Public buses run in Taniti City from 5 a.m. to 11 p.m. daily. Private buses serve the rest of the island, taxis are available in Taniti City, and rental cars are available near the airport.",
   },
   {
-    question: "Is Taniti walkable or bike friendly?",
+    question: "Walking and biking",
     answer:
       "Taniti City is fairly flat and walkable, and Merriton Landing is easy to explore on foot. Bikes and helmets are available to rent, and helmets are required by law.",
   },
   {
-    question: "What should visitors know about money?",
+    question: "Currency",
     answer:
       "Taniti uses the U.S. dollar as its currency. Many businesses also accept euros and yen, several banks facilitate currency exchange, and many businesses accept major credit cards.",
   },
   {
-    question: "What should visitors know about safety and health?",
+    question: "Safety and health",
     answer:
       "Violent crime is very rare on Taniti, but as tourism increases, there are more reports of pickpocketing and other petty crimes. Taniti has one hospital and several clinics, and the hospital has many multilingual employees.",
   },
