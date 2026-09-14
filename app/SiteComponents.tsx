@@ -28,13 +28,15 @@ export function Header() {
             >
               {item.label}
             </a>
-            <div className="nav-menu">
-              {item.links.map(([label, href]) => (
-                <a href={href} key={label}>
-                  {label}
-                </a>
-              ))}
-            </div>
+            {item.links.length > 0 && (
+              <div className="nav-menu">
+                {item.links.map(([label, href]) => (
+                  <a href={href} key={label}>
+                    {label}
+                  </a>
+                ))}
+              </div>
+            )}
           </div>
         ))}
       </nav>

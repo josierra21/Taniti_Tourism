@@ -100,12 +100,7 @@ export const navItems = [
   {
     label: "FAQs",
     href: "/faqs",
-    links: [
-      ["Travel Basics", "/faqs#faq-travel"],
-      ["Money", "/faqs#faq-money"],
-      ["Health & Safety", "/faqs#faq-safety"],
-      ["Contact Us", "/faqs#contact"],
-    ],
+    links: [],
   },
 ];
 
