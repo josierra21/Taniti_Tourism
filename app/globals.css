@@ -275,7 +275,7 @@ select {
 .explore-item img {
   aspect-ratio: 4 / 3;
   border: 1px solid rgba(28, 39, 40, 0.14);
-  border-radius: 4px;
+  border-radius: 20px;
   box-shadow: 0 10px 24px rgba(28, 39, 40, 0.12);
   display: block;
   object-fit: cover;
