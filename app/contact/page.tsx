@@ -22,7 +22,7 @@ export default function ContactPage() {
         </div>
         <form className="contact-form" aria-labelledby="message-title" aria-describedby="contact-note" onSubmit={(event) => { event.preventDefault(); setSubmitted(true); }}>
           <h2 id="message-title">Send us a message</h2>
-          <p id="contact-note">This is a prototype form. Messages are not sent.</p>
+          
           <label htmlFor="contact-name">Name
             <input id="contact-name" name="name" autoComplete="name" required />
           </label>
