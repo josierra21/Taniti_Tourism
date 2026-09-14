@@ -2,7 +2,7 @@
 
 **Live website:** [exploretaniti.netlify.app](https://exploretaniti.netlify.app/)
 
-Explore Taniti is a tourism website prototype created for the WGU D479 User Experience Design project. It helps visitors plan a trip to the fictional island of Taniti by exploring activities, lodging, food and drink, transportation, FAQs, and contact information.
+Explore Taniti is a tourism website prototype created for the WGU D479 User Experience Design project. It helps visitors plan a trip to the fictional island of Taniti with information about activities, lodging, dining, and transportation, along with FAQs and a Contact Us page.
 
 ## Design Process
 
