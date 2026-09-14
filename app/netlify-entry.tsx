@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import { createRoot } from "react-dom/client";
+import ContactPage from "./contact/page";
 import FaqsPage from "./faqs/page";
 import FoodDrinkPage from "./food-drink/page";
 import HomePage from "./page";
@@ -45,6 +46,10 @@ function NetlifyApp() {
 
   if (path === "/faqs") {
     return <FaqsPage />;
+  }
+
+  if (path === "/contact") {
+    return <ContactPage />;
   }
 
   return <HomePage />;
