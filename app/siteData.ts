@@ -102,6 +102,11 @@ export const navItems = [
     href: "/faqs",
     links: [],
   },
+  {
+    label: "Contact Us",
+    href: "/contact",
+    links: [],
+  },
 ];
 
 export const thingsToDo: Feature[] = [
