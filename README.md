@@ -6,11 +6,7 @@ Explore Taniti is a tourism website prototype created for the WGU D479 User Expe
 
 ## Design Process
 
-The project progressed from a wireframe to guerrilla testing, followed by usability testing and refinements to the prototype.
-
-1. **Wireframe:** Established the initial page layout, navigation, and organization of the island’s visitor information.
-2. **Guerrilla testing:** Gathered early feedback on the design before moving into more detailed usability testing.
-3. **Usability testing:** Identified opportunities to make information easier to find and the website easier to navigate. Feedback led to shorter FAQ accordion labels, removal of the FAQ navigation dropdown, consistent rounded homepage images, and a separate Contact Us page with a prototype form.
+The website began as a wireframe and went through guerrilla testing and usability testing to refine the final prototype.
 
 Contact and booking forms are for demonstration only.
 
